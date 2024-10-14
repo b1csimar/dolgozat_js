@@ -1,0 +1,2 @@
+# dolgozat_js
+javascript
